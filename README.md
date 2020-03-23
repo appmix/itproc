@@ -1,1 +1,22 @@
 # itproc
+
+* winvml
+* rotaml
+* enforca
+* ffmpeg
+* ffmpgf
+* ittutg
+* mbash
+* nwlink
+* nwmain
+* spfonts
+* spfonts-media
+* spfonts-media2
+* spfonts2
+* giffa
+* pboxl
+* webworks
+* works
+* movme
+* fitnsm
+* elshop
