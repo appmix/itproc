@@ -2,7 +2,7 @@
 
 * winvml
 * nwlink
-* ffmpgf
+* ffmpgs
 * spfonts
 * spfonts-media
 * pboxl

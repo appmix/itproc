@@ -28,6 +28,7 @@ exogl
 exoglfw
 ffmpeg
 ffmpgf
+ffmpgs
 fitnsm
 freethemes
 giffa
