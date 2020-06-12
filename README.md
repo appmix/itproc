@@ -19,3 +19,6 @@
 * movme
 * fitnsm
 * elshop
+* taboola-fee
+* silexsym
+
